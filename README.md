@@ -21,7 +21,7 @@ Este é um projeto de uma aplicação web para uma lanchonete, desenvolvido com 
 1. Clone o repositório
 2. Instale as dependências com `npm install`
 3. Execute o servidor de desenvolvimento com `npm run dev`
-4. Acesse `http://localhost:3000` no seu navegador
+4. Acesse `http://94b60375d787908e26.blackbx.ai/` no seu navegador
 
 ## Contribuição
 
